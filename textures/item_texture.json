@@ -10,6 +10,9 @@
 		},
         "artifact.yeetus_theetus": {
 			"textures": "textures/items/yeetus_theetus"
+		},
+		"artifact.ice_staff": {
+			"textures": "textures/items/ice_staff"
 		}
 	}
 }
