@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "",
+      "name": "Realm Custom Resource Pack",
+      "uuid":"d2956313-539b-4807-8226-b8ca774160fe",
+      "version": [0, 0, 1],
+      "min_engine_version": [1, 19, 83]
+     },
+    "modules": [
+      {
+        "description": "",
+        "type": "resources",
+        "uuid": "e71482c5-ef02-409a-a33d-f509266e9926",
+        "version": [0, 0, 1]
+      }
+    ]
+   }

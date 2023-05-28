@@ -1,0 +1,15 @@
+{
+	"resource_pack_name": "Realm Custom Resource Pack",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"artifact.boots_of_hermes": {
+			"textures": "textures/items/boots_of_hermes"
+		},
+        "artifact.the_one_ring": {
+			"textures": "textures/items/the_one_ring"
+		},
+        "artifact.yeetus_theetus": {
+			"textures": "textures/items/yeetus_theetus"
+		}
+	}
+}
