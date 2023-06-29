@@ -13,6 +13,9 @@
 		},
 		"artifact.ice_staff": {
 			"textures": "textures/items/ice_staff"
+		},
+		"artifact.poseidons_trident": {
+			"textures": "textures/items/poseidons_trident"
 		}
 	}
 }
