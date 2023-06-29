@@ -16,6 +16,9 @@
 		},
 		"artifact.poseidons_trident": {
 			"textures": "textures/items/poseidons_trident"
+		},
+		"artifact.starvation_medallion": {
+			"textures": "textures/items/starvation_medallion"
 		}
 	}
 }
