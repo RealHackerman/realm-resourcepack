@@ -19,6 +19,12 @@
 		},
 		"artifact.starvation_medallion": {
 			"textures": "textures/items/starvation_medallion"
+		},
+		"artifact.cum_bucket": {
+			"textures": "textures/items/cum_bucket"
+		},
+		"artifact.empty_cum_bucket": {
+			"textures": "textures/items/empty_cum_bucket"
 		}
 	}
 }
