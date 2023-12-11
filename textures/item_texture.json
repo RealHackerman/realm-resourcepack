@@ -31,6 +31,12 @@
 		},
 		"artifact.sniper": {
 			"textures": "textures/items/sniper"
+		},
+		"artifact.berserker_mushroom": {
+			"textures": "textures/items/berserker_mushroom"
+		},
+		"artifact.used_berserker_mushroom": {
+			"textures": "textures/items/used_berserker_mushroom"
 		}
 	}
 }
