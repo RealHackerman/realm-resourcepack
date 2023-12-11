@@ -28,6 +28,9 @@
 		},
 		"artifact.empty_cum_bucket": {
 			"textures": "textures/items/empty_cum_bucket"
+		},
+		"artifact.sniper": {
+			"textures": "textures/items/sniper"
 		}
 	}
 }
