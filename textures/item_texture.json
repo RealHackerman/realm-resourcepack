@@ -20,6 +20,9 @@
 		"artifact.starvation_medallion": {
 			"textures": "textures/items/starvation_medallion"
 		},
+		"artifact.gatling_gun": {
+			"textures": "textures/items/gatling_gun"
+		},
 		"artifact.cum_bucket": {
 			"textures": "textures/items/cum_bucket"
 		},
