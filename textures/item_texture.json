@@ -30,7 +30,7 @@
 			"textures": "textures/items/empty_cum_bucket"
 		},
 		"artifact.sniper": {
-			"textures": "textures/items/sniper"
+			"textures": "textures/items/sniper_standby"
 		},
 		"artifact.berserker_mushroom": {
 			"textures": "textures/items/berserker_mushroom"

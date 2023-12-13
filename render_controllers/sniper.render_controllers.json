@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10",
+    "render_controllers": {
+      "controller.render.sniper": {
+        "arrays": {
+          "textures": {
+            "array.bow_texture_frames": [
+              "texture.default",
+              "texture.bow_pulling_0",
+              "texture.bow_pulling_1",
+              "texture.bow_pulling_2"
+            ]
+          },
+          "geometries": {
+            "array.bow_geo_frames": [
+              "geometry.default",
+              "geometry.bow_pulling_0",
+              "geometry.bow_pulling_1",
+              "geometry.bow_pulling_2"
+            ]
+          }
+        },
+        "geometry": "q.item_in_use_duration < 10000 ? {return array.bow_geo_frames[math.floor(v.charge_amount*2)+1];} : {return array.bow_geo_frames[0];};",
+        "materials": [ { "*": "material.enchanted"} ],
+        "textures": [ "q.item_in_use_duration < 10000 ? {return array.bow_texture_frames[math.floor(v.charge_amount*2)+1];} : {return array.bow_texture_frames[0];};", "texture.enchanted" ]
+      }
+    }
+  }
