@@ -37,6 +37,12 @@
 		},
 		"artifact.used_berserker_mushroom": {
 			"textures": "textures/items/used_berserker_mushroom"
+		},
+		"artifact.death_scythe": {
+			"textures": "textures/items/death_scythe"
+		},
+		"artifact.elven_tablet": {
+			"textures": "textures/items/elven_tablet"
 		}
 	}
 }
