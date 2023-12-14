@@ -43,6 +43,9 @@
 		},
 		"artifact.elven_tablet": {
 			"textures": "textures/items/elven_tablet"
+		},
+		"artifact.steed_summoner": {
+			"textures": "textures/items/steed_summoner"
 		}
 	}
 }
