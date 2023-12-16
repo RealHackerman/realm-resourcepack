@@ -46,6 +46,42 @@
 		},
 		"artifact.steed_summoner": {
 			"textures": "textures/items/steed_summoner"
-		}
+		},
+		"artifact.monkey_medallion": {
+			"textures": "textures/items/monkey_medallion"
+		},
+		"artifact.vitality_medallion": {
+			"textures": "textures/items/vitality_medallion"
+		},
+		"artifact.oasis_medallion": {
+			"textures": "textures/items/oasis_medallion"
+		},
+		"artifact.shulker_sword": {
+			"textures": "textures/items/shulker_sword"
+		},
+		"artifact.berserker_axe": {
+			"textures": "textures/items/berserker_axe"
+		},
+		"artifact.spider_fang": {
+			"textures": "textures/items/spider_fang"
+		},
+		"artifact.wither_sword": {
+			"textures": "textures/items/wither_sword"
+		},
+		"artifact.golem_sword": {
+			"textures": "textures/items/golem_sword"
+		},
+		"artifact.cursed_shard": {
+			"textures": "textures/items/cursed_shard"
+		},
+		"artifact.cursed_scythe": {
+			"textures": "textures/items/cursed_scythe"
+		},
+		"artifact.cursed_scepter": {
+			"textures": "textures/items/cursed_scepter"
+		},
+		"artifact.dragon_heart": {
+			"textures": "textures/items/dragon_heart"
+		}		
 	}
 }
