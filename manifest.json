@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-      "description": "",
+      "description": "A custom behavior pack adding trading, artifacts, custom entities, and more! (v1.0.0)",
       "name": "Realm Custom Resource Pack",
       "uuid":"d2956313-539b-4807-8226-b8ca774160fe",
-      "version": [0, 4, 3],
+      "version": [1, 0, 0],
       "min_engine_version": [1, 19, 83]
      },
     "modules": [
       {
-        "description": "",
+        "description": "Resource Pack Data",
         "type": "resources",
         "uuid": "e71482c5-ef02-409a-a33d-f509266e9926",
-        "version": [0, 4, 3]
+        "version": [1, 0, 0]
       }
     ]
    }
