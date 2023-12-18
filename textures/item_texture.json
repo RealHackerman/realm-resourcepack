@@ -82,6 +82,15 @@
 		},
 		"artifact.dragon_heart": {
 			"textures": "textures/items/dragon_heart"
-		}		
+		},
+		"artifact.hells_chestplate": {
+			"textures": "textures/items/hells_chestplate"
+		},
+		"artifact.slime_leggings": {
+			"textures": "textures/items/slime_leggings"
+		},
+		"artifact.night_vision_goggles": {
+			"textures": "textures/items/night_vision_goggles"
+		}
 	}
 }
